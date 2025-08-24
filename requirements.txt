@@ -1,0 +1,20 @@
+requerimientos
+
+numpy
+pyaudio
+matplotlib
+scipy
+
+Abre el símbolo del sistema (cmd) y ejecuta:
+
+pip install numpy pyaudio matplotlib scipy
+
+
+Si tienes varias versiones de Python y no te funciona, prueba:
+
+python -m pip install numpy pyaudio matplotlib scipy
+
+
+si usas python3:
+
+python3 -m pip install numpy pyaudio matplotlib scipy
